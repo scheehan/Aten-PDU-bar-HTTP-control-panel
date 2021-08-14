@@ -1,5 +1,4 @@
 import re
-import getpass
 import telnetlib
 from time import sleep
 import cgi, cgitb
