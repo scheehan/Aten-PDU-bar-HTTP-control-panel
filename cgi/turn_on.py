@@ -33,7 +33,7 @@ def main():
     tn.write("\r".encode('ascii'))
 
     # output buffered session info
-    print(tn.read_all().decode('ascii'))
+    # print(tn.read_all().decode('ascii'))
 
     # save and decode output
     b_data = tn.read_all().decode('ascii')
