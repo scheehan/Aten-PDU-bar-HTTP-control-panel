@@ -5,9 +5,9 @@ import cgi, cgitb
 
 def main():
     # credential and telnet server info
-    HOST = "192.168.148.180"
-    user = 'teladmin'
-    password = 'telpwd'
+    HOST = "X.X.X.X"
+    user = 'username'
+    password = 'password'
 
     # init connection to PDU 
     tn = telnetlib.Telnet(HOST)
