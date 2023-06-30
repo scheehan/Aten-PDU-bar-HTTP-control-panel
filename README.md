@@ -3,3 +3,5 @@
 
 # Aten-PDU-bar-HTTP-control-panel
 
+> Aten PDU bar comes alongs with an individual control panel, which allow admin to remotely control each PDU bar. Challenges arise when you have over 20 - 30 PDU bars need to manage and monitor.
+> It would easier when there is a central web portal to control and monitor each PDU bar. To solve these challenges, a simple web interface with python code to provides function to control PDU bar with action [ ON | OFF | Status ]  
